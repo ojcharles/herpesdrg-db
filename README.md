@@ -20,6 +20,8 @@ The database contains the link between:
     - that can be found with this doi
 - with accomodating notes & metadata
 
+Mutations may not appear as exactly reported in the article, as we map all mutations to the NCBI reference strain as described in [the HerpesDRG article](https://link.springer.com/article/10.1186/s12859-024-05885-5)
+
 If you wish to use this database outside of the the HerpesDRG R package, it is important you filter for rows where the column "status" == "A" ( for active).
 
 
@@ -34,4 +36,4 @@ We see this as a resource that should be openly discussed and maintained, theref
 
 If you have any questions either:
  - Start a GitHub issue using the Issue tab above. This initiates an open discussion
- - E-mail [Oscar Charles](oscar.charles.18@ucl.ac.uk)
+ - E-mail [Oscar Charles](ojc.research.generic@gmail.com)
