@@ -25,6 +25,12 @@ Mutations may not appear as exactly reported in the article, as we map all mutat
 If you wish to use this database outside of the the HerpesDRG R package, it is important you filter for rows where the column "status" == "A" ( for active).
 
 
+The reference sequences used are:
+- HCMV  -   NC_006273.2
+- HSV1  -   NC_001806.2
+- HSV2  -   NC_001798.2
+- VZV   -   NC_001348.1
+- HHV6b -   NC_000898.1
 
 
 ### Contributing
